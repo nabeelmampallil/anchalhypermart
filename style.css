@@ -1,0 +1,28 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+
+}
+#tcolor{
+    color: #0c8f45;
+}
+.footcolor{
+    background-color: #0c8f45;
+}
+#map{
+    padding-bottom:10px ;
+}
+
+.map{
+   margin-left: 3rem;
+}
+.offer-content{
+    height: 700px;
+}
+.contact-content{
+    height: 700px;
+}
+
+#contact{
+    height: 100px;
+    width: unset;
+}
