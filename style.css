@@ -5,9 +5,7 @@
 #tcolor{
     color: #0c8f45;
 }
-.footcolor{
-    background-color: #0c8f45;
-    margin-top:50px ;
+
     
 
 }
@@ -37,10 +35,9 @@
 
 
 .offer-zone1{
-    height: 50%;
-    width: 60%;
-    margin-top: 30px;
-}
+    height: 95%;
+    width: 68%;
+    margin-top: 30px;}
 
 .wapp{
     width: 150px;
@@ -49,3 +46,57 @@
     background-color: #0c8f45;
     border: none;
 }
+.delivery{
+    
+    
+}
+.welcome-section{
+    height: 700px;
+    margin-top: 30px;
+}
+.amenities{
+    margin ;
+}
+
+#amenities{
+
+    font-size: 25px;
+    font-weight: bold;
+}
+#cards{
+     margin-top:30px ;
+}
+
+  
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #0c8f45;
+    color: white;
+    text-align: center;
+    height: 40px;
+ }
+
+ .btn{
+    background-color: #0c8f45;
+    color: white;
+    border: 1px solid;
+    margin-top: 6px;
+ }
+ .offer-content{
+     height: 150px;
+ }
+
+ #fontindex{
+     font-size:60% ;
+ }
+ #foot{
+     height: 30px;
+     font-size:10px ;
+     padding-bottom:4px ;
+ }
+ #fb{
+     height: 40px;
+ }
